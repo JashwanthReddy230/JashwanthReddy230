@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JashwanthReddy230
+- 👋 Hi, I’m JashwanthReddy Mardhi
 - 👀 I’m interested in developer
 - 🌱 I’m currently learning full stack java
-- 💞️ I’m looking to collaborate on ...
+- 
 - 📫 How to reach me jashwanthreddy8560@gmail.com
 - 😄 Pronouns: jashwanth Reddy
   
