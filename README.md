@@ -50,7 +50,6 @@ I'm **Jashwanth Reddy**, a passionate developer interested in building useful an
 * Git
 * GitHub
 * VS Code
-* IntelliJ IDEA
 * Postman
 
 
